@@ -1,0 +1,8 @@
+
+apiTitle: Promotions API
+splitSpec: true
+codeSamples: true
+swaggerUI: false
+travis: true
+repo: filipehcds/promotions-api
+oasVersion: '2.0'
